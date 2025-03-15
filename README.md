@@ -69,7 +69,9 @@ Visual Effects
 
 
 
-
+<div>
+  <input type="text" placeholder="here is the statement.">
+</div>
 
 
 
