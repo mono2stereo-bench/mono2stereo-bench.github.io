@@ -81,9 +81,11 @@ BibTeX
  </div>
 <div>
   <textarea rows="4" cols="50" readonly>
-    here is a text area.
+    这是一个显示文本的文本框。
   </textarea>
 </div>
+
+
 <div align="center">
 <h2>
 Acknowledgements
