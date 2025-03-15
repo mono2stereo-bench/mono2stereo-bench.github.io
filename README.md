@@ -71,8 +71,15 @@ CVPR 2025
 
 
 
-
-
-
+<div align="center">
+<h2>
+Acknowledgements
+</h2>
+ <br>
+ </div>
+ 
+<div>
+Website adapted from the following <a href="https://github.com/CaiJimmy/hugo-theme-stack-starter">template</a>.
+</div>
 
 
