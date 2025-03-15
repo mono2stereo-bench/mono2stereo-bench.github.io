@@ -8,6 +8,7 @@ _**[<sup>1</sup>Songsong Yu](https://song2yu.github.io/), [<sup>2</sup> Yuxin Ch
 <sup>2</sup>ARC Lab, Tencent PCG
 <sup>3</sup>The Hong Kong University of Science and Technology (Guangzhou)
 
+CVPR 2025
 
 </div>
 
