@@ -24,7 +24,7 @@ CVPR 2025
 </div>
 
 
-<div style="font-size: 16px; font-family: Arial, sans-serif; "align="center">
+<div style="font-size: 32px; font-family: Arial, sans-serif; "align="center">
 <h2>
  Brief introduction
 </h2>
