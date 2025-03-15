@@ -80,9 +80,9 @@ BibTeX
  <br>
  </div>
 <div>
-  <textarea rows="4" cols="50" readonly>
+  <div contenteditable="false" style="border: 1px solid #ccc; padding: 10px; width: 300px; height: 100px; overflow: auto;">
     这是一个显示文本的文本框。
-  </textarea>
+  </div>
 </div>
 
 
