@@ -4,7 +4,7 @@
 
 
 <div style="text-align: center;">
-  <h1># Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion</h1>
+  <h1> Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion</h1>
 </div>
 
 
