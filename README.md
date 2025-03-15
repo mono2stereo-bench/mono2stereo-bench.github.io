@@ -1,6 +1,6 @@
 <img align="right" width="500" alt="logo" src="assets/img/back.jpg">
 
-# 于松松
+# Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion
 
 ### Master Student @[Dalian University of Technology](https://www.dlut.edu.cn)
 ### [IIAU Lab](https://futureschool.dlut.edu.cn/IIAU.htm)
