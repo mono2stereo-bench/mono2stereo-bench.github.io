@@ -1,5 +1,5 @@
 <h1> Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion</h1>
-<center> #
+<center> # 
 Songsong Yu, Yuxin Chen, [Zeke Xie](https://scholar.google.com/citations?user=ysXmZCMAAAAJ&hl=zh-CN&oi=ao), [Yifan Wang](https://scholar.google.com/citations?user=j1XFhSoAAAAJ&hl=zh-CN&oi=ao), [Lijun Wang](https://scholar.google.com/citations?user=EfTwkXMolscC&hl=zh-CN&oi=ao), [Zhongang Qi](https://scholar.google.com/citations?user=zJvrrusAAAAJ&hl=zh-CN&oi=ao), [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=zh-CN&oi=ao), [Huchuan Lu](https://scholar.google.com/citations?user=D3nE0agAAAAJ&hl=zh-CN&oi=ao)
 
 
