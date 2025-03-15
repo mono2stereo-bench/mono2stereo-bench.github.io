@@ -36,7 +36,7 @@ CVPR 2025
  <br><br>
 </div>
 
-<img src="assets/img/teaser.png" alt="pipe" width="900px"> 
+<img src="assets/img/teaser.png" alt="teaser" width="900px"> 
 <div align="left">
  <strong> Datasets.</strong> We collect approximately two million stereo image pairs for model training and provide the code for data processing.
  <br><br>
@@ -50,7 +50,7 @@ CVPR 2025
 </div>
 
 
-<img src="assets/img/difference.png" alt="pipe" width="900px">
+<img src="assets/img/difference.png" alt="siou" width="900px">
 <div align="left">
  <strong> SIoU.</strong> We find that due to the small differences between the left and right images, the model tends to degenerate into an identity mapping during training. Therefore, we add an edge consistency loss to force the model to focus on edge information.
  <br><br>
