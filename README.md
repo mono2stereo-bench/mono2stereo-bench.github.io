@@ -78,7 +78,7 @@ Acknowledgements
  <br>
  </div>
  
-<div>
+<div align="center">
 Website adapted from the following <a href="https://github.com/CaiJimmy/hugo-theme-stack-starter">template</a>.
 </div>
 
