@@ -1,9 +1,8 @@
-# ___***Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion***___
 <div align="center">
 <h1> Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion</h1>
 
  <a href='https://arxiv.org/abs/2409.02095'><img src='https://img.shields.io/badge/arXiv-2409.02095-b31b1b.svg'></a> &nbsp;
- <a href='https://depthcrafter.github.io'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;
+ <a href='https://depthcrafter.github.io'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp,
     
 [<sup>1</sup>Songsong Yu](https://song2yu.github.io/),
 [<sup>2</sup> Yuxin Chen](https://scholar.google.com/citations?hl=zh-CN&user=dEm4OKAAAAAJ&view_op=list_works),
