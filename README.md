@@ -60,7 +60,12 @@ CVPR 2025
 
 
 
-
+<div align="center">
+<h2>
+Visual Effects
+</h2>
+ <br>
+ </div>
 
 
 
