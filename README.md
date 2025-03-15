@@ -1,6 +1,12 @@
-<img align="right" width="500" alt="logo" src="assets/img/back.jpg">
 
-# Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion
+
+
+
+
+<div style="text-align: center;">
+  <h1># Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion</h1>
+</div>
+
 
 ### Master Student @[Dalian University of Technology](https://www.dlut.edu.cn)
 ### [IIAU Lab](https://futureschool.dlut.edu.cn/IIAU.htm)
