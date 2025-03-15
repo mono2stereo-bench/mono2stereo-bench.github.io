@@ -69,14 +69,19 @@ Visual Effects
 
 
 
-<div>
-  <input type="text" placeholder="here is the statement.">
-</div>
 
 
 
 
-
+<div align="center">
+<h2>
+BibTeX
+</h2>
+ <br>
+ </div>
+  <textarea rows="4" cols="50" readonly>
+    here is a text area.
+  </textarea>
 
 <div align="center">
 <h2>
