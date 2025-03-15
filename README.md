@@ -5,10 +5,14 @@
 
 <div style="text-align: center;">
   <h1> Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion</h1>
+  <h3> Songsong Yu, Yuxin Chen, Zeke Xie, Yifan Wang, Lijun Wang, Zhongang Qi, Ying Shan, Huchuan Lu</h3>
 </div>
 
 
 ### Master Student @[Dalian University of Technology](https://www.dlut.edu.cn)
+
+
+
 ### [IIAU Lab](https://futureschool.dlut.edu.cn/IIAU.htm)
 
 <i class="fas fa-envelope"></i>1: 22209083@mail.dlut.edu.cn(primary)
