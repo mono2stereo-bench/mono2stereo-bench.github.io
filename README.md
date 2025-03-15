@@ -39,7 +39,7 @@ CVPR 2025
 </div>
 
 
-
+<img src="assets/img/training.jpg" alt="pipe" width="900px">
 <div align="left">
  <strong> Architecture.</strong> We find that due to the small differences between the left and right images, the model tends to degenerate into an identity mapping during training. Therefore, we add an edge consistency loss to force the model to focus on edge information.
 </div>
