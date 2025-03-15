@@ -2,7 +2,6 @@
 <div align="center">
 <h1> Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion</h1>
 
-![Version](https://img.shields.io/badge/version-1.0.1-blue) &nbsp;
  <a href='https://arxiv.org/abs/2409.02095'><img src='https://img.shields.io/badge/arXiv-2409.02095-b31b1b.svg'></a> &nbsp;
  <a href='https://depthcrafter.github.io'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;
  <a href='https://huggingface.co/spaces/tencent/DepthCrafter'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a> &nbsp;
