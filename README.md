@@ -68,9 +68,9 @@ Visual Effects
  </div>
 
 <img src="assets/img/Buddha.jpg" alt="siou" width="900px">
-
-
-
+<img src="assets/img/wukong.jpg" alt="siou" width="900px">
+<img src="assets/img/wukong1.jpg" alt="siou" width="900px">
+<img src="assets/img/sora.jpg" alt="siou" width="900px">
 
 
 <div align="center">
