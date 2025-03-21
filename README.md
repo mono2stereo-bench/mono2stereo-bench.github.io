@@ -67,11 +67,11 @@ Visual Effects
  <br>
  </div>
 
-<img src="assets/img/Buddha.jpg" alt="siou" width="900px">
-<img src="assets/img/wukong.jpg" alt="siou" width="900px">
-<img src="assets/img/wukong1.jpg" alt="siou" width="900px">
-<img src="assets/img/sora.jpg" alt="siou" width="900px">
-
+<img src="assets/img/Buddha.jpg" alt="Buddha" width="900px">
+<img src="assets/img/wukong.jpg" alt="wukong" width="900px">
+<img src="assets/img/wukong1.jpg" alt="wukong1" width="900px">
+<img src="assets/img/sora.jpg" alt="sora" width="900px">
+<img src="assets/img/demo.jpg" alt="demo" width="900px">
 
 <div align="center">
 <h2>
