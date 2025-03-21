@@ -67,7 +67,7 @@ Visual Effects
  <br>
  </div>
 
-
+<img src="assets/img/Buddha.jpg" alt="siou" width="900px">
 
 
 
