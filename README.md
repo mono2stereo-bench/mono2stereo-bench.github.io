@@ -68,7 +68,7 @@ Visual Effects
  </div>
  You can wear red-blue glasses to get the out-of-screen effect.
 
-<br><br><br>
+<br><br>
 <img src="assets/img/Buddha.jpg" alt="Buddha" width="900px">
 <img src="assets/img/wukong.jpg" alt="wukong" width="900px">
 <img src="assets/img/wukong1.jpg" alt="wukong1" width="900px">
