@@ -67,7 +67,7 @@ Visual Effects
  <br>
  </div>
  You can wear red-blue glasses to get the out-of-screen effect.
-
+<p style="font-family: 'New Roman', Times, serif;">新罗马字体</p>
 <br><br>
 <img src="assets/img/Buddha.jpg" alt="Buddha" width="900px">
 <img src="assets/img/wukong.jpg" alt="wukong" width="900px">
