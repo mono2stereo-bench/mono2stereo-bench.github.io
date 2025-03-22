@@ -61,13 +61,13 @@ CVPR 2025
 
 
 <div align="center">
-<h2>
-Visual Effects
+<h2><p style="font-family: 'New Roman', Times, serif;font-size: 32px;">
+Visual Effects </p>
 </h2>
  <br>
  </div>
 
-<p style="font-family: 'New Roman', Times, serif;font-size: 20px;"> You can wear red-blue glasses to get the out-of-screen effect.</p>
+<p style="font-family: 'New Roman', Times, serif;font-size: 22px;"> You can wear red-blue glasses to get the out-of-screen effect.</p>
 
 <br><br>
 <img src="assets/img/Buddha.jpg" alt="Buddha" width="900px">
