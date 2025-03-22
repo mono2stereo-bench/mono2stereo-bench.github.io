@@ -30,7 +30,6 @@ CVPR 2025
 <h2><p style="font-family: 'New Roman', Times, serif;font-size: 32px;">
 Brief introduction </p>
 </h2>
- <br>
  </div>
 
 
