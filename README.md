@@ -41,6 +41,7 @@ CVPR 2025
 <img src="assets/img/teaser.png" alt="teaser" width="900px"> 
 <div align="left">
  <br>
+ 
  <strong> Datasets.</strong> We collect approximately two million stereo image pairs for model training and provide the code for data processing.
  <br><br>
 </div>
@@ -92,7 +93,8 @@ BibTeX
 
 <div align="center">
 <h2>
-Acknowledgements
+ <p style="font-family: 'New Roman', Times, serif;font-size: 32px;"> Acknowledgements</p>
+
 </h2>
  <br>
  </div>
