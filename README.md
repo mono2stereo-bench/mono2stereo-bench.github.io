@@ -58,7 +58,8 @@ CVPR 2025
 
 <img src="assets/img/difference.png" alt="siou" width="900px">
 <div align="left">
- <strong> SIoU.</strong> We find that due to the small differences between the left and right images, the model tends to degenerate into an identity mapping during training. Therefore, we add an edge consistency loss to force the model to focus on edge information.
+ <p style="font-family: 'New Roman', Times, serif;font-size: 22px;"> <strong> SIoU.</strong> We find that due to the small differences between the left and right images, the model tends to degenerate into an identity mapping during training. Therefore, we add an edge consistency loss to force the model to focus on edge information.</p>
+ 
  <br><br>
 </div>
 
