@@ -83,6 +83,7 @@ Visual Effects </p>
 <img src="assets/img/sora.jpg" alt="sora" width="900px">
 <img src="assets/img/seed.jpg" alt="demo" width="900px">
 
+<br>
 <div align="center">
 <h2><p style="font-family: 'New Roman', Times, serif;font-size: 32px;">
 Exploring the Future </p>
