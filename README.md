@@ -84,6 +84,19 @@ Visual Effects </p>
 <img src="assets/img/seed.jpg" alt="demo" width="900px">
 
 <div align="center">
+<h2><p style="font-family: 'New Roman', Times, serif;font-size: 32px;">
+Exploring the Future </p>
+</h2>
+ <br>
+ </div>
+
+<div align="left">
+<p style="font-family: 'New Roman', Times, serif;font-size: 22px;"> It is important to note that our baseline model does not incorporate temporal information. Although it processes the input video frame by frame, the temporal consistency is not well-maintained, leading to flickering artifacts. In future work, we plan to train a video generation model specifically for stereo conversion tasks.</p>
+</div>
+
+
+
+<div align="center">
 <h2>
 BibTeX
 </h2>
