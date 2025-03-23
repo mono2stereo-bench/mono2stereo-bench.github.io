@@ -93,7 +93,7 @@ Exploring the Future </p>
 <div align="left">
 <p style="font-family: 'New Roman', Times, serif;font-size: 22px;"> It is important to note that our baseline model does not incorporate temporal information. Although it processes the input video frame by frame, the temporal consistency is not well-maintained, leading to flickering artifacts. In future work, we plan to train a video generation model specifically for stereo conversion tasks.</p>
 </div>
-<br>
+
 <video width="100%" controls>
   <source src="assets/img/video.mp4" type="video/mp4">
 </video>
