@@ -21,7 +21,8 @@
 </div>
 <div align="center">
 CVPR 2025
-
+<sup>\dag</sup>Project Lead
+<sup>*</sup>Corresponding Author
 </div>
 
 
