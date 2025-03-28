@@ -7,7 +7,7 @@
 
 <div align="center">
 <a href="https://song2yu.github.io/"><sup>1</sup>Songsong Yu</a> |
-<a href="https://scholar.google.com/citations?hl=zh-CN&user=dEm4OKAAAAAJ&view_op=list_works"><sup>2</sup> Yuxin Chen<sup>🔆</sup></a> |
+<a href="https://scholar.google.com/citations?hl=zh-CN&user=dEm4OKAAAAAJ&view_op=list_works"><sup>2</sup> Yuxin Chen<sup>🌟</sup></a> |
  <a href="https://scholar.google.com/citations?user=zJvrrusAAAAJ&hl=zh-CN&oi=ao"><sup>2</sup>Zhongang Qi<sup>📜 </sup></a> |
 <a href="https://scholar.google.com/citations?user=ysXmZCMAAAAJ&hl=zh-CN&oi=ao"><sup>3</sup>Zeke Xie</a> |
 <a href="https://scholar.google.com/citations?user=j1XFhSoAAAAJ&hl=zh-CN&oi=ao"><sup>1</sup>Yifan Wang</a> |
@@ -21,7 +21,7 @@
 </div>
 <div align="center">
 CVPR 2025
-<sup>🔆</sup>Project Lead
+<sup>🌟</sup>Project Lead
 <sup>📜 </sup>Corresponding Author
 </div>
 
