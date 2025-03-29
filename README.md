@@ -69,7 +69,7 @@ Brief introduction </p>
 
 <div align="center">
 <h2><p style="font-family: 'New Roman', Times, serif;font-size: 32px;">
-Visual Effects </p>
+🎥 Visual Effects </p>
 </h2>
  <br>
  </div>
