@@ -53,14 +53,14 @@ CVPR 2025
 <img src="assets/img/training.jpg" alt="pipe" width="900px">
 <div align="left">
  <p style="font-family: 'New Roman', Times, serif;font-size: 22px;">
-<strong>🏋️ Architecture.</strong> We find that due to the small differences between the left and right images, the model tends to degenerate into an identity mapping during training. Therefore, we add an edge consistency loss to force the model to focus on edge information. </p>
+<strong>⛩️ Architecture.</strong> We find that due to the small differences between the left and right images, the model tends to degenerate into an identity mapping during training. Therefore, we add an edge consistency loss to force the model to focus on edge information. </p>
  <br><br>
 </div>
 
 
 <img src="assets/img/difference.png" alt="siou" width="900px">
 <div align="left">
- <p style="font-family: 'New Roman', Times, serif;font-size: 22px;"> <strong>🪧 SIoU.</strong> We find that due to the small differences between the left and right images, the model tends to degenerate into an identity mapping during training. Therefore, we add an edge consistency loss to force the model to focus on edge information.</p>
+ <p style="font-family: 'New Roman', Times, serif;font-size: 22px;"> <strong>🧪 SIoU.</strong> We find that due to the small differences between the left and right images, the model tends to degenerate into an identity mapping during training. Therefore, we add an edge consistency loss to force the model to focus on edge information.</p>
  
  <br><br>
 </div>
@@ -75,7 +75,7 @@ CVPR 2025
  </div>
  
 <div align="left">
-<p style="font-family: 'New Roman', Times, serif;font-size: 22px;"> You can wear red-blue glasses to get the out-of-screen effect.</p>
+<p style="font-family: 'New Roman', Times, serif;font-size: 22px;"> 👓 You can wear red-blue glasses to get the out-of-screen effect. 👓</p>
 </div>
 <br>
 <img src="assets/img/Buddha.jpg" alt="Buddha" width="900px">
