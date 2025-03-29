@@ -29,7 +29,7 @@ CVPR 2025
 
 <div align="center">
 <h2><p style="font-family: 'New Roman', Times, serif;font-size: 32px;">
-Brief introduction </p>
+🔆 Brief introduction </p>
 </h2>
  </div>
 
@@ -44,7 +44,7 @@ Brief introduction </p>
 <div align="left">
  <br>
  <p style="font-family: 'New Roman', Times, serif;font-size: 22px;">
-  <strong> Datasets.</strong> We collect approximately two million stereo image pairs for model training and provide the code for data processing. </p>
+  <strong> 📦 Datasets.</strong> We collect approximately two million stereo image pairs for model training and provide the code for data processing. </p>
 
  <br><br>
 </div>
@@ -87,7 +87,7 @@ Brief introduction </p>
 <br>
 <div align="center">
 <h2><p style="font-family: 'New Roman', Times, serif;font-size: 32px;">
-Exploring the Future </p>
+🔥 Exploring the Future </p>
 </h2>
  <br>
  </div>
