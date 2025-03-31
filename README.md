@@ -1,7 +1,7 @@
 <div align="center">
  <img src="assets/img/logo.png" alt="logo" width="200px"> 
 <h1> Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion </h1>
- <a href='https://arxiv.org/submit/6316573'><img src='https://img.shields.io/badge/arXiv-2409.02095-b31b1b.svg'></a> &nbsp;
+ <a href='https://arxiv.org/abs/2503.22262'><img src='https://img.shields.io/badge/arXiv-2503.22262-b31b1b.svg'></a> &nbsp;
  <a href='https://github.com/song2yu/Mono2Stereo'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;
 </div>
 
@@ -109,7 +109,15 @@ CVPR 2025
  </div>
 <div>
   <div contenteditable="false" style="border: 1px solid #ccc; padding: 10px; width: 300px; height: 100px; overflow: auto;">
-    here is a statement.
+    @misc{yu2025mono2stereobenchmarkempiricalstudy,
+      title={Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion}, 
+      author={Songsong Yu and Yuxin Chen and Zhongang Qi and Zeke Xie and Yifan Wang and Lijun Wang and Ying Shan and Huchuan Lu},
+      year={2025},
+      eprint={2503.22262},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.22262}, 
+}
   </div>
 </div>
 
