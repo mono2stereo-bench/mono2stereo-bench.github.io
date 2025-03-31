@@ -108,7 +108,7 @@ CVPR 2025
  <br>
  </div>
 <div>
-  <div contenteditable="false" style="border: 1px solid #ccc; padding: 10px; width: 300px; height: 100px; overflow: auto;">
+  <div contenteditable="false" style="border: 1px solid #ccc; padding: 10px; width: 900px; height: 100px; overflow: auto;">
     @misc{yu2025mono2stereobenchmarkempiricalstudy,
       title={Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion}, 
       author={Songsong Yu and Yuxin Chen and Zhongang Qi and Zeke Xie and Yifan Wang and Lijun Wang and Ying Shan and Huchuan Lu},
@@ -120,6 +120,22 @@ CVPR 2025
 }
   </div>
 </div>
+
+<section class="hero teaser" id="BibTeX">
+    <div class="hero-body">
+        <div class="column is-three-fifths" style=" margin-top: 30px; margin-bottom: 20px;">
+            <h2 class="title is-3">BibTeX</h2>
+            <pre><code>
+            @inproceedings{hu2024-DepthCrafter,
+                author      = {Hu, Wenbo and Gao, Xiangjun and Li, Xiaoyu and Zhao, Sijie and Cun, Xiaodong and Zhang, Yong and Quan, Long and Shan, Ying},
+                title       = {DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos},
+                booktitle   = {CVPR},
+                year        = {2025}
+            }
+            </code></pre>
+        </div>
+    </div>
+</section>
 
 
 <div align="center">
