@@ -101,17 +101,6 @@ CVPR 2025
 </video>
 
 
-<div align="center">
-<h2>
- BibTeX
-</h2>
- <br>
- </div>
-<div>
-  <div contenteditable="false" style="border: 1px solid #ccc; padding: 10px; width: 900px; height: 100px; overflow: auto;">
-
-  </div>
-</div>
 
 <section class="hero teaser" id="🎓 BibTeX">
     <div class="hero-body">
