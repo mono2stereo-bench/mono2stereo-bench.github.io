@@ -103,7 +103,7 @@ CVPR 2025
 
 <div align="center">
 <h2>
-🎓 BibTeX
+ BibTeX
 </h2>
  <br>
  </div>
@@ -113,7 +113,7 @@ CVPR 2025
   </div>
 </div>
 
-<section class="hero teaser" id="BibTeX">
+<section class="hero teaser" id="🎓 BibTeX">
     <div class="hero-body">
         <div class="column is-three-fifths" style=" margin-top: 30px; margin-bottom: 20px;">
             <h2 class="title is-3">BibTeX</h2>
