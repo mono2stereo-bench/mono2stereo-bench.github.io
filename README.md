@@ -3,6 +3,7 @@
 <h1> Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion </h1>
  <a href='https://arxiv.org/abs/2503.22262'><img src='https://img.shields.io/badge/arXiv-2503.22262-b31b1b.svg'></a> &nbsp;
  <a href='https://github.com/song2yu/Mono2Stereo'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;
+  <a href='https://huggingface.co/Two-hot/Mono2Stereo/tree/main'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a> &nbsp;
 </div>
 
 <div align="center">
